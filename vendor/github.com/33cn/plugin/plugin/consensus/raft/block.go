@@ -138,11 +138,11 @@ func (client *Client) CreateBlock() {
 			infoflag = 0
 		}
 		if issleep {
-			time.Sleep(1 * time.Second)
+			time.Sleep(10 * time.Second)
 			count++
 		}
 
-		if count >= 120 {
+		if count >= 12 {
 			rlog.Info("Create an empty block")
 			block := client.GetCurrentBlock()
 			emptyBlock := &types.Block{}

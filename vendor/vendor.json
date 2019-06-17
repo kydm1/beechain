@@ -5,1064 +5,792 @@
 		{
 			"checksumSHA1": "CuxuBmnP86vLFU8v75zY62nFrrk=",
 			"path": "github.com/33cn/plugin/cli/buildflags",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "YqYLdF+HBtN/XeN6hKyljS1h1Dk=",
 			"path": "github.com/33cn/plugin/plugin",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "uI6De7yr/5WAjzLbkDaR/pDrVCw=",
 			"path": "github.com/33cn/plugin/plugin/consensus/init",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "0a9PcKlJu7hpgTNfOJCHh5gM//A=",
 			"path": "github.com/33cn/plugin/plugin/consensus/para",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "w88/4KL9KSHayrZoZ+KJdu3w35g=",
 			"path": "github.com/33cn/plugin/plugin/consensus/pbft",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
-			"checksumSHA1": "roelDbbu9yrodc35pP7L+Taogzs=",
+			"checksumSHA1": "DcDuwFiKovZmB9gIpNb7Yp0/fl0=",
 			"path": "github.com/33cn/plugin/plugin/consensus/raft",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "DMs4BYgGPjQYnXg7JHkDm0yBFTk=",
 			"path": "github.com/33cn/plugin/plugin/consensus/tendermint",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "q6xy7GClBMIJijTcVPy/VMOX+R8=",
 			"path": "github.com/33cn/plugin/plugin/consensus/tendermint/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "PJdgWvJHxXn7XKhmJ+Gn4970FVU=",
 			"path": "github.com/33cn/plugin/plugin/consensus/ticket",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "xHInPQ3eiU1BMRnuhFsl4hE5lh4=",
 			"path": "github.com/33cn/plugin/plugin/crypto/ecdsa",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "b0vPAXYb/Mx0lJxCRXKkSTI7mtE=",
 			"path": "github.com/33cn/plugin/plugin/crypto/init",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "gaD3pdqiZPwm6+K7mj3J04Z1I2U=",
 			"path": "github.com/33cn/plugin/plugin/crypto/sm2",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "97cwBD8fbdr66COsgySNGg4htbQ=",
 			"path": "github.com/33cn/plugin/plugin/dapp/blackwhite",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "7Oze/QSmCgnf8jdUUpkFAMrxqyU=",
 			"path": "github.com/33cn/plugin/plugin/dapp/blackwhite/commands",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "xcFKjPFtrGsJd97WetdiR6jtxzc=",
 			"path": "github.com/33cn/plugin/plugin/dapp/blackwhite/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "HWE/ntyOUEIcXPqCSnPf/vlot6E=",
 			"path": "github.com/33cn/plugin/plugin/dapp/blackwhite/rpc",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "WXqBaD6Jgk25vpiR1bggOTgCwhI=",
 			"path": "github.com/33cn/plugin/plugin/dapp/blackwhite/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "ad54GSTTFsXzOrk8yiYlEiZquc4=",
 			"path": "github.com/33cn/plugin/plugin/dapp/cert",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "84Z+q8dXKMq2X6W1Nofymmbaeh8=",
 			"path": "github.com/33cn/plugin/plugin/dapp/cert/authority",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "DrA/XJhjI/7YcKqQ6Ylp1WuSfmc=",
 			"path": "github.com/33cn/plugin/plugin/dapp/cert/authority/core",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "+5/7vTIPAbtgcWy/dI9aBxYPjCI=",
 			"path": "github.com/33cn/plugin/plugin/dapp/cert/authority/tools/cryptogen/factory/csp",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "VnTcuGTMPOn9vNv1mHmc3YY2iQ4=",
 			"path": "github.com/33cn/plugin/plugin/dapp/cert/authority/tools/cryptogen/factory/signer",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "hpGmtSpVxP5pCgvq5Y1QdEkGp9o=",
 			"path": "github.com/33cn/plugin/plugin/dapp/cert/authority/tools/cryptogen/factory/utils",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "lDA1KiwZoNdxVmfRTXg9uKttoLQ=",
 			"path": "github.com/33cn/plugin/plugin/dapp/cert/authority/tools/cryptogen/generator",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "dwZonqmmTGl8b79GoNW35GqhZWA=",
 			"path": "github.com/33cn/plugin/plugin/dapp/cert/authority/tools/cryptogen/generator/impl",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "2npvIr1laQmCxovzNLpzonYK7u4=",
 			"path": "github.com/33cn/plugin/plugin/dapp/cert/authority/tools/cryptogen/generator/utils",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "jxaNxDerqS9lNMj1pPtnEV0nYLs=",
 			"path": "github.com/33cn/plugin/plugin/dapp/cert/authority/utils",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "uvwfz3xWM5l3ri5YvX0Ewvb6Xq0=",
 			"path": "github.com/33cn/plugin/plugin/dapp/cert/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "JOzFU0DrH/VNy8LpFu8s/SZrdPg=",
 			"path": "github.com/33cn/plugin/plugin/dapp/cert/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "A0FBSoaCaUoGeXzeuUe3AUHTizQ=",
 			"path": "github.com/33cn/plugin/plugin/dapp/echo",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "Eq8lvbwEUDJff0jU31wSl1YRShI=",
 			"path": "github.com/33cn/plugin/plugin/dapp/echo/commands",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "ItVKx2N9qpx2X19qnRwzEdUqjnE=",
 			"path": "github.com/33cn/plugin/plugin/dapp/echo/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "Nn750gnrbhsXjqa4rJVGuqst9co=",
 			"path": "github.com/33cn/plugin/plugin/dapp/echo/rpc",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "5W3IyOPb2PbBGaHZ1/0/pYfVj1o=",
 			"path": "github.com/33cn/plugin/plugin/dapp/echo/types/echo",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "IspZu88rUqNI6QPVDaZrL0i2eyQ=",
 			"path": "github.com/33cn/plugin/plugin/dapp/evm",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "4gUadVND0qDCX7ULLmzQcx9Qs3U=",
 			"path": "github.com/33cn/plugin/plugin/dapp/evm/commands",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "I3S7zuh33tFXCyZvyPAKnUfMwsw=",
 			"path": "github.com/33cn/plugin/plugin/dapp/evm/commands/compiler",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "SlBEJVtJvPnUimVBWEwTvGOvVuA=",
 			"path": "github.com/33cn/plugin/plugin/dapp/evm/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "Ywya2SRzRfUpR8lL8wrPkCrBD5o=",
 			"path": "github.com/33cn/plugin/plugin/dapp/evm/executor/abi",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "oIefOCSp3LB1sKpGAwH26wdDQds=",
 			"path": "github.com/33cn/plugin/plugin/dapp/evm/executor/vm/common",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "bXuixdvVJvMuwHL/irnu5CfEMBU=",
 			"path": "github.com/33cn/plugin/plugin/dapp/evm/executor/vm/common/crypto",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "tH5TnZtLDaz3hauahwrIbu4WbV4=",
 			"path": "github.com/33cn/plugin/plugin/dapp/evm/executor/vm/common/crypto/bn256",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "Yt6rvS5n+KSifQTOL0gFgGcWMTo=",
 			"path": "github.com/33cn/plugin/plugin/dapp/evm/executor/vm/gas",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "q0982dHKSGre7kbmQXHy5u5rtkY=",
 			"path": "github.com/33cn/plugin/plugin/dapp/evm/executor/vm/mm",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "bC5QFbzcOeHnDDNc+0KXacKzve8=",
 			"path": "github.com/33cn/plugin/plugin/dapp/evm/executor/vm/model",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "656W4oRZoH0b9dYkWGxYcmacJeU=",
 			"path": "github.com/33cn/plugin/plugin/dapp/evm/executor/vm/params",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "oyoiEO12PQjgVVDOfwN0jasiXHg=",
 			"path": "github.com/33cn/plugin/plugin/dapp/evm/executor/vm/runtime",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "qbVqywT3qtC0Np/kVoN1bmNjXiQ=",
 			"path": "github.com/33cn/plugin/plugin/dapp/evm/executor/vm/state",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "15sSgPFkPLrUqu49cHO3/VBf+P4=",
 			"path": "github.com/33cn/plugin/plugin/dapp/evm/rpc",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "zMXPASLs2BCZhDpK2MNb6J0rVDg=",
 			"path": "github.com/33cn/plugin/plugin/dapp/evm/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "qxbMD9N4stwKbMQzpyJIzRlp+dk=",
 			"path": "github.com/33cn/plugin/plugin/dapp/game",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "98npZmiCvsL4X7FcwnssnLRfmb4=",
 			"path": "github.com/33cn/plugin/plugin/dapp/game/commands",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "BLkFwl3/7r3+ZI1l4FGEGkOuqTc=",
 			"path": "github.com/33cn/plugin/plugin/dapp/game/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "Ny8sXtfYboFENBz07NJjsrFnCxU=",
 			"path": "github.com/33cn/plugin/plugin/dapp/game/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
-		},
-		{
-			"checksumSHA1": "msHzUHmGKLHIm7oiYf4eYtZRDdU=",
-			"path": "github.com/33cn/plugin/plugin/dapp/goldbill",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
-		},
-		{
-			"checksumSHA1": "681NloI4FGgFH+fgNQulbvMheLA=",
-			"path": "github.com/33cn/plugin/plugin/dapp/goldbill/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
-		},
-		{
-			"checksumSHA1": "u4Rc+vVhcNTeXXgnUY1a17YsZ8A=",
-			"path": "github.com/33cn/plugin/plugin/dapp/goldbill/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "zC/fjc9ip19RMBSokIdm5vu41ZU=",
 			"path": "github.com/33cn/plugin/plugin/dapp/guess",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "HRAH5iq6W/cJ8VUef1bwKjIU8Vo=",
 			"path": "github.com/33cn/plugin/plugin/dapp/guess/commands",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "0DQ03sKlWZ75PXwebex4HOCEXMU=",
 			"path": "github.com/33cn/plugin/plugin/dapp/guess/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "41ee7FC2IduM5sppz/1oo4DT0cM=",
 			"path": "github.com/33cn/plugin/plugin/dapp/guess/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
-		},
-		{
-			"checksumSHA1": "CS+hD8vVZOi4RnvROBCsae2+T5Q=",
-			"path": "github.com/33cn/plugin/plugin/dapp/gyl",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
-		},
-		{
-			"checksumSHA1": "y+lDb2j1duCTo1b4vl6G3lH7bOE=",
-			"path": "github.com/33cn/plugin/plugin/dapp/gyl/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
-		},
-		{
-			"checksumSHA1": "Vib2sBYG5PLK/Rk71w772t8bVJg=",
-			"path": "github.com/33cn/plugin/plugin/dapp/gyl/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
-		},
-		{
-			"checksumSHA1": "NdcSyGCCjB6cO201ZJ93GughzYU=",
-			"path": "github.com/33cn/plugin/plugin/dapp/hacker",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
-		},
-		{
-			"checksumSHA1": "klW0bz8YZhwqkj30i+ZKv49uQP0=",
-			"path": "github.com/33cn/plugin/plugin/dapp/hacker/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
-		},
-		{
-			"checksumSHA1": "iful6fHagWSgLSNLpDjXxmRwqoc=",
-			"path": "github.com/33cn/plugin/plugin/dapp/hacker/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "C9V/Gu/WN1mvguHtwZCbNhoCwPU=",
 			"path": "github.com/33cn/plugin/plugin/dapp/hashlock",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "7MTAiYhDEjkvpWpeu7QzcD6A3G8=",
 			"path": "github.com/33cn/plugin/plugin/dapp/hashlock/commands",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "HYvytGMmJWWKoLseK4takcdiyXo=",
 			"path": "github.com/33cn/plugin/plugin/dapp/hashlock/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "OkTXD3sJfSHvlCiHRKG0O8n7cRU=",
 			"path": "github.com/33cn/plugin/plugin/dapp/hashlock/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
-			"checksumSHA1": "66viBfzUeqKaMRSQjRCB7jfRQuQ=",
+			"checksumSHA1": "NtvF3PLcwuq2oLLxiRr1rAEqALk=",
 			"path": "github.com/33cn/plugin/plugin/dapp/init",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "IxP2+BDQ9+wwtwPpeo0+IlO5vUs=",
 			"path": "github.com/33cn/plugin/plugin/dapp/js",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "lSHa3QqztEdQ74IyvL7h9fnVvuU=",
 			"path": "github.com/33cn/plugin/plugin/dapp/js/autotest",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "ij3L3OO/1vjWRwdUqJ25FZkLjCI=",
 			"path": "github.com/33cn/plugin/plugin/dapp/js/command",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "14qjftDSdigutvEkGJjdotW7hpc=",
 			"path": "github.com/33cn/plugin/plugin/dapp/js/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "Tmk6KgZVFVt6hYcCQueF4rd4gpM=",
 			"path": "github.com/33cn/plugin/plugin/dapp/js/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "Bw6lAnfsP1gbANxZxrnv2dIzCd0=",
 			"path": "github.com/33cn/plugin/plugin/dapp/js/types/jsproto",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "VR1uhiSu0QOhFRWpDCJCvmtRecI=",
 			"path": "github.com/33cn/plugin/plugin/dapp/lottery",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "5eIsJgLEJ35Ov4ASFYpnky9n5I8=",
 			"path": "github.com/33cn/plugin/plugin/dapp/lottery/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "LjRaWTLu8suE8XjA+4qWPqwMdEg=",
 			"path": "github.com/33cn/plugin/plugin/dapp/lottery/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
-		},
-		{
-			"checksumSHA1": "M296ZclPvMMZ16PKBxSKffaf5pU=",
-			"path": "github.com/33cn/plugin/plugin/dapp/mall",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
-		},
-		{
-			"checksumSHA1": "w73m75HGfNKSzgPGFirm5wR/iXM=",
-			"path": "github.com/33cn/plugin/plugin/dapp/mall/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
-		},
-		{
-			"checksumSHA1": "bp7wcYEu5vadvVdBABL9W1DX4aQ=",
-			"path": "github.com/33cn/plugin/plugin/dapp/mall/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "p8YVCydbWxfxMAEVtXXcBzRhuG8=",
 			"path": "github.com/33cn/plugin/plugin/dapp/multisig",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "PN4Flj2xg+vzw1UokuVDuE+zf7Y=",
 			"path": "github.com/33cn/plugin/plugin/dapp/multisig/autotest",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "/kdHVb0NWYP9p4RPEbPzoSJOdGY=",
 			"path": "github.com/33cn/plugin/plugin/dapp/multisig/commands",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "xtNyTXNfFIlPsYN2vtoTckqCkc0=",
 			"path": "github.com/33cn/plugin/plugin/dapp/multisig/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "GumcAYVCijRFd9GN0S6oZ9qRuq0=",
 			"path": "github.com/33cn/plugin/plugin/dapp/multisig/rpc",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "g9hU8drIY0KIQs9/wweUDB1TmEE=",
 			"path": "github.com/33cn/plugin/plugin/dapp/multisig/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "ikFbR/XBSVbnCwzd3aX/nRWH/Y0=",
 			"path": "github.com/33cn/plugin/plugin/dapp/multisig/wallet",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "lFN2Q0FGT+wWUCEe0Y9dtxe3aqM=",
 			"path": "github.com/33cn/plugin/plugin/dapp/norm",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "WRLrYrNSpBahAGNX/LrRTAZ63QQ=",
 			"path": "github.com/33cn/plugin/plugin/dapp/norm/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "eTE26UbN0J/q3qq87uI6ahhulfU=",
 			"path": "github.com/33cn/plugin/plugin/dapp/norm/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "aCwKAeaehvjoHypfvWPgXbA8CMg=",
 			"path": "github.com/33cn/plugin/plugin/dapp/oracle",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "08/Jv5QNvftrQQc3BhEAU7sbEUE=",
 			"path": "github.com/33cn/plugin/plugin/dapp/oracle/commands",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "kvIM7psTWm/hopSrkffBCXAaudE=",
 			"path": "github.com/33cn/plugin/plugin/dapp/oracle/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "lCuUrGFU3f3ibCXZWHt49iDbzeU=",
 			"path": "github.com/33cn/plugin/plugin/dapp/oracle/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "+GfzXEIykMPNI6nj2JjFJSfTtMU=",
 			"path": "github.com/33cn/plugin/plugin/dapp/paracross",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "Xg5TkuDYCpC762p30Ru53lkN4is=",
 			"path": "github.com/33cn/plugin/plugin/dapp/paracross/autotest",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "Esoxh0ITphgCux0yNtVZzwSQBdw=",
 			"path": "github.com/33cn/plugin/plugin/dapp/paracross/commands",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "0vztyc/RdbmZoZwfyQC25RrxP4Y=",
 			"path": "github.com/33cn/plugin/plugin/dapp/paracross/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "x2Cx15g9zuRnKcDXdztkus6WGQk=",
 			"path": "github.com/33cn/plugin/plugin/dapp/paracross/rpc",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "nT1RK9ioliAjjPbss7Kg5jzr58U=",
 			"path": "github.com/33cn/plugin/plugin/dapp/paracross/testnode",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "MA+F/oPZiflfJg6AhBUeeiVizeU=",
 			"path": "github.com/33cn/plugin/plugin/dapp/paracross/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "O4Hzh/Oa1GqGK2N5yhXfazNkxP0=",
 			"path": "github.com/33cn/plugin/plugin/dapp/paracross/wallet",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "q2y62PV1jU/B/oGAzV1AZiH7rSA=",
 			"path": "github.com/33cn/plugin/plugin/dapp/pokerbull",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "CPP7B4kbUc7wz+J0g8x6N3+7xWs=",
 			"path": "github.com/33cn/plugin/plugin/dapp/pokerbull/cmd",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "e1SmL2jwoIXpj7IhJM1bILWMXMU=",
 			"path": "github.com/33cn/plugin/plugin/dapp/pokerbull/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "6uAVf7gF5/XoUhNYVCNZLR6T+MI=",
 			"path": "github.com/33cn/plugin/plugin/dapp/pokerbull/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "1kAEGE3lH/f0SWpUVm2DwLT4nxQ=",
 			"path": "github.com/33cn/plugin/plugin/dapp/privacy",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "TNvF87cjXhc+MD+9rJQca+TTSuw=",
 			"path": "github.com/33cn/plugin/plugin/dapp/privacy/autotest",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "svXdVxgZtmow1/33v5mdHe1d0Sw=",
 			"path": "github.com/33cn/plugin/plugin/dapp/privacy/commands",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "AP4oY4ccwwUK97l7b9N3QdGWmF8=",
 			"path": "github.com/33cn/plugin/plugin/dapp/privacy/crypto",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "KU8zc3hOdWcNqxj7mff8ZOgorg0=",
 			"path": "github.com/33cn/plugin/plugin/dapp/privacy/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "Eq1xbXNOe8PqnEsmo1dyHK1BIms=",
 			"path": "github.com/33cn/plugin/plugin/dapp/privacy/rpc",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "hyuHx+JCdV0cavMnICasnKNnz1I=",
 			"path": "github.com/33cn/plugin/plugin/dapp/privacy/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "/8d8Sm+IQAUHotIjEXRLoupxkQc=",
 			"path": "github.com/33cn/plugin/plugin/dapp/privacy/wallet",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "f6knSzt2HaLtJAejJeb53xXL+jg=",
 			"path": "github.com/33cn/plugin/plugin/dapp/relay",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "RAU+clCuYCgf7nAm2OHd8y1HeXI=",
 			"path": "github.com/33cn/plugin/plugin/dapp/relay/cmd/relayd/relayd",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "0Tw9d8S3LNKjNZwpT76G4AMePdo=",
 			"path": "github.com/33cn/plugin/plugin/dapp/relay/commands",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "G+cspf8ZpQkod9CGCpa0J/OKZYs=",
 			"path": "github.com/33cn/plugin/plugin/dapp/relay/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "euIPhb9I6i5+sPgF7nekPdVj+qg=",
 			"path": "github.com/33cn/plugin/plugin/dapp/relay/rpc",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "qX25Z+pOtq63JXvJgMAWskhX4rc=",
 			"path": "github.com/33cn/plugin/plugin/dapp/relay/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "sGXHZgFRsOeqijM7mx0FOSIUeO4=",
 			"path": "github.com/33cn/plugin/plugin/dapp/retrieve",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "ZiDfNyt6CDkyds0tOqoCnNlQgnw=",
 			"path": "github.com/33cn/plugin/plugin/dapp/retrieve/cmd",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "IrdC5Jdo9x7tMBH5hloyw+3tZMs=",
 			"path": "github.com/33cn/plugin/plugin/dapp/retrieve/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "gMQE4LcxTlBAWS4MEMFZ7W2Dctw=",
 			"path": "github.com/33cn/plugin/plugin/dapp/retrieve/rpc",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "Hy4La6bCZvOBnugIpuXGg+u9TXQ=",
 			"path": "github.com/33cn/plugin/plugin/dapp/retrieve/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "tXenN5wft4RGT0qDClsholALP1Q=",
 			"path": "github.com/33cn/plugin/plugin/dapp/ticket",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "gRL2elYxV0k6o0YyVrnQaGw5334=",
 			"path": "github.com/33cn/plugin/plugin/dapp/ticket/commands",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "hUpH1VQwoUzCeqMhtreIN+AUuJ0=",
 			"path": "github.com/33cn/plugin/plugin/dapp/ticket/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "BTc8oid0jec1jrYxD3L6WaroyDw=",
 			"path": "github.com/33cn/plugin/plugin/dapp/ticket/rpc",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "jaZFgV4U5AVWnS9hE0HcJlSd86Q=",
 			"path": "github.com/33cn/plugin/plugin/dapp/ticket/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "DoZzpBGw4Gg97De7DkQiB9xKJuo=",
 			"path": "github.com/33cn/plugin/plugin/dapp/ticket/wallet",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "OrWvBeCcrMTcCE8h47+u4YjXAhw=",
 			"path": "github.com/33cn/plugin/plugin/dapp/token",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "wW7bQoUgAL1r98PeNX6awFSUzyI=",
 			"path": "github.com/33cn/plugin/plugin/dapp/token/autotest",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "WxCTIu5/kvoTUfesgMy3P2QcDrk=",
 			"path": "github.com/33cn/plugin/plugin/dapp/token/cmd/signatory-server/signatory",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "+Lk1M2WtjS8hnb77ZThDsyAfPtE=",
 			"path": "github.com/33cn/plugin/plugin/dapp/token/commands",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "BnXz0Nezpy2RRsNZ2Del3i/0qQE=",
 			"path": "github.com/33cn/plugin/plugin/dapp/token/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "2bpUwxxrWhzGxCf2iFZ6LEyiJjQ=",
 			"path": "github.com/33cn/plugin/plugin/dapp/token/rpc",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "FIZqYaut9PxPQfiMoYdikTx2ssA=",
 			"path": "github.com/33cn/plugin/plugin/dapp/token/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
-		},
-		{
-			"checksumSHA1": "WtuKd9VLI1twgMD1tXCwyokwlRY=",
-			"path": "github.com/33cn/plugin/plugin/dapp/tokennote",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
-		},
-		{
-			"checksumSHA1": "Vb6QfnwADjCZohoJb6/GQXLVYpY=",
-			"path": "github.com/33cn/plugin/plugin/dapp/tokennote/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
-		},
-		{
-			"checksumSHA1": "FKzKZa0Lno9QtYTq5Ie7K7EyfII=",
-			"path": "github.com/33cn/plugin/plugin/dapp/tokennote/rpc",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
-		},
-		{
-			"checksumSHA1": "zCshumNjbRERuMRbG68qu/vszo4=",
-			"path": "github.com/33cn/plugin/plugin/dapp/tokennote/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
-		},
-		{
-			"checksumSHA1": "s+ib5XL/o+DHNTCwxmYe4LR9GS0=",
-			"path": "github.com/33cn/plugin/plugin/dapp/traceplatform",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
-		},
-		{
-			"checksumSHA1": "w8luUxDRt5X264sqMLodVWq4SfA=",
-			"path": "github.com/33cn/plugin/plugin/dapp/traceplatform/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
-		},
-		{
-			"checksumSHA1": "IzngdggDwjwGbQNtaiz/w0DDJNE=",
-			"path": "github.com/33cn/plugin/plugin/dapp/traceplatform/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "v3O9wCzgZZj/qWBtB4wJfztN91c=",
 			"path": "github.com/33cn/plugin/plugin/dapp/trade",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "H87Cs6KrA3gvarGvpOqY1s6hXsE=",
 			"path": "github.com/33cn/plugin/plugin/dapp/trade/autotest",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "ayNH6N+9GHBdtACDVjzM9QldtgI=",
 			"path": "github.com/33cn/plugin/plugin/dapp/trade/commands",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "Qn8K7/XUcYzTSU2n4E3fwPMk9e0=",
 			"path": "github.com/33cn/plugin/plugin/dapp/trade/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "DGPGQhIwqaWwskrXdgmTWLUS+Hw=",
 			"path": "github.com/33cn/plugin/plugin/dapp/trade/rpc",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "XHjw3s+AGxWkMGXxPHS64sT4jlk=",
 			"path": "github.com/33cn/plugin/plugin/dapp/trade/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "PJIcC4Vg+45E1/RLJqIx50vK07A=",
 			"path": "github.com/33cn/plugin/plugin/dapp/unfreeze",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "Kh/kryNNg/yGg+X2D/dxyGPYyFU=",
 			"path": "github.com/33cn/plugin/plugin/dapp/unfreeze/autotest",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "GfdYO0fGvk2siapC6os/zbs5lao=",
 			"path": "github.com/33cn/plugin/plugin/dapp/unfreeze/commands",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "b8EN8dukOuJM5iqC+Jf76aI+shc=",
 			"path": "github.com/33cn/plugin/plugin/dapp/unfreeze/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "8lU6edFV+hmEQzuyPFcML0coGCY=",
 			"path": "github.com/33cn/plugin/plugin/dapp/unfreeze/rpc",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "NlbYOp8weq+O3dJ7GSmjy0VlVi0=",
 			"path": "github.com/33cn/plugin/plugin/dapp/unfreeze/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "5fs06mmvrN17Md/bNhNp/NM65bw=",
 			"path": "github.com/33cn/plugin/plugin/dapp/valnode",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "Q/WojVMate0c6yvkUUYIiZEo80Q=",
 			"path": "github.com/33cn/plugin/plugin/dapp/valnode/commands",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "fipjpFwg1UfNlJE9/uydDf5Y9AU=",
 			"path": "github.com/33cn/plugin/plugin/dapp/valnode/executor",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "AJCTDNlgE0SEHDWc9cO2DG0ynqY=",
 			"path": "github.com/33cn/plugin/plugin/dapp/valnode/rpc",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "Art0WGsHwBGyq0KMbTXl3DIcHwk=",
 			"path": "github.com/33cn/plugin/plugin/dapp/valnode/types",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "/TbAS3g2ATWstjh5IZQQFNMvyjI=",
 			"path": "github.com/33cn/plugin/plugin/mempool/init",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "E6V1GrwG072ah9NvhJzIhZ1Q6mA=",
 			"path": "github.com/33cn/plugin/plugin/mempool/para",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "9bXzmo/37F/S3zdmpzrUJYWp6Os=",
 			"path": "github.com/33cn/plugin/plugin/mempool/price",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "aiB6HIyRPLiblNOTuiWQzJGP5No=",
 			"path": "github.com/33cn/plugin/plugin/mempool/score",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "7kbKfWoolT/83xLzgJXWjE6vTdQ=",
 			"path": "github.com/33cn/plugin/plugin/store/init",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "9J6g8jz2UgUJfu9X+fXB1UDDq9I=",
 			"path": "github.com/33cn/plugin/plugin/store/kvdb",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "bgRKMuiB5aXoNorZP2OwNbNKCIw=",
 			"path": "github.com/33cn/plugin/plugin/store/kvmvcc",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "msB8VksSHUmn39Qo1CqWw8N/Eow=",
 			"path": "github.com/33cn/plugin/plugin/store/kvmvccmavl",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "gNNhazO1pUAXPlg0nY++aVzDGEQ=",
 			"path": "github.com/33cn/plugin/plugin/store/mpt",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "ZuXOrHf3aOXogSLpDqTePOI2Ud4=",
 			"path": "github.com/33cn/plugin/plugin/store/mpt/db",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "QF/5RbTD60FQ7akuI1r3dhwUedI=",
 			"path": "github.com/33cn/plugin/plugin/store/mpt/db2/rlp",
-			"revision": "e19b556487d87cf37057a8e94f3135fd26b2bd36",
-			"revisionTime": "2019-06-15T15:25:36Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "0rido7hYHQtfq3UJzVT5LClLAWc=",
@@ -1359,12 +1087,6 @@
 			"path": "github.com/xiang90/probing",
 			"revision": "07dd2e8dfe18522e9c447ba95f2fe95262f63bb2",
 			"revisionTime": "2016-08-13T15:48:53Z"
-		},
-		{
-			"checksumSHA1": "l0FqIZwzcvuCVfHWjcbQ8fGfFEE=",
-			"path": "gitlab.33.cn/chain33/chain33/common",
-			"revision": "eee0727c8b07c2451044b7741c26cbf5673df80d",
-			"revisionTime": "2019-01-28T04:31:01Z"
 		},
 		{
 			"checksumSHA1": "9VCT03G1QYtkpnzbRf+LWrX+oeA=",
