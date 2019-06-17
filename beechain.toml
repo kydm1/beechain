@@ -111,7 +111,7 @@ minerstart=false
 #此处IP改成实际的地址
 ParaRemoteGrpcClient = "101.37.227.226:8802,39.97.20.242:8802,47.107.15.126:8802,jiedian2.bityuan.com,cloud.bityuan.com,40.83.76.166:8802"
 #指定从主链某高度的区块开始同步
-startHeight=2240000
+startHeight=1898264
 #打包时间间隔，单位秒
 writeBlockSeconds=5
 #主链每隔几个没有相关交易的区块，平行链上打包空区块
